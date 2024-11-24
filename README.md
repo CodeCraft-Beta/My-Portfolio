@@ -13,7 +13,7 @@ Watch more Website Template in my Website.
 
 **Website Video** - https://youtu.be/rALrxLYt310
 
-**Website View** - https://designcraft.odoo.com/interior-design
+**Website View** - https://designcraft.odoo.com/my-portfolio
 
 # CodeCraft-Beta
 
